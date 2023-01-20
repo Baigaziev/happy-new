@@ -5,7 +5,7 @@
 body {
   font-family: "Staatliches", cursive;
   font-size: 20px;
-  background-image: url(/fon2.jpeg);
+  background-image: url(/img/img2.jpg);
   background-repeat: repeat-x;
   background-attachment: fixed;
   background-size: 100%;
@@ -81,7 +81,7 @@ h4:hover {
 
 .container {
   /* задать ширину и выровнять по середине */
-  max-width: 980px;
+  max-width: 990px;
   margin: 0 auto;
 }
 .row {
