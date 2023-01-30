@@ -75,7 +75,7 @@ h4 {
 }
 h4:hover {
   color: rgb(241, 195, 7);
-  transform: scale(1.2);
+ 
   text-shadow: 1px 1px;
 }
 
@@ -144,7 +144,7 @@ h4:hover {
   margin-bottom: 15px;
 }
 .card:hover {
-  transform: scale(1.3);
+  background-color: rgb(1, 0, 1);
 }
 .card_item1 {
   
